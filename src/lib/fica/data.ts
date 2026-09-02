@@ -30,7 +30,7 @@ export const CATALOG: Record<CategoryId, string[]> = {
     "Simplesmente Acontece",
     "Kill Bill",
     "Cidade de Deus",
-    "爱 Amélie Poulain",
+    "O Fabuloso Destino de Amélie Poulain",
     "De Repente 30",
     "Diário de uma Paixão",
     "Matrix",
