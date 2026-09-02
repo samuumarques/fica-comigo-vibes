@@ -46,7 +46,7 @@ export function Confetti({ fire }: { fire: boolean }) {
       rot: Math.random() * Math.PI,
       vr: (Math.random() - 0.5) * 0.32,
       size: 6 + Math.random() * 9,
-      color: COLORS[Math.floor(Math.random() * COLORS.length)],
+      color: COLORS[Math.floor(Math.random() * COLORS.length)]!,
       shape: Math.floor(Math.random() * 3),
     }));
 
